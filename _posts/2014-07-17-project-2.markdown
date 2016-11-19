@@ -1,0 +1,15 @@
+---
+title: Sample Post
+subtitle: This is my sample post.
+layout: default
+modal-id: 7
+date: 2016-11-17
+img: dreams.png
+thumbnail: dreams-thumbnail.png
+alt: image-alt
+project-date: November 2016
+client: BizBox, Inc.
+category: Logo
+description: This is my super description.
+
+---
