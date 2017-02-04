@@ -1,0 +1,15 @@
+---
+title: Sample Post
+subtitle: This is my sample post.
+layout: default
+modal-id: 2017-02-04-birthday
+date: 2017-02-04
+img: dreams.png
+thumbnail: dreams-thumbnail.png
+alt: image-alt
+project-date: February 2017
+client: Fatima Mae
+category: Logo
+description: This is so ez.
+
+---
